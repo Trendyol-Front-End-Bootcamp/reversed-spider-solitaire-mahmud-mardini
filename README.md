@@ -29,7 +29,7 @@
 ## Installation
 - Clone project
 ```sh
-git clone https://github.com/mahmudmardini/CV-Gaussian-Median-Noise-Filters.git
+git clone https://github.com/Trendyol-Front-End-Bootcamp/reversed-spider-solitaire-mahmud-mardini.git
 ```
 
 ``` bash
